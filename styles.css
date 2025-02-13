@@ -62,7 +62,7 @@ header a{
     font-size: medium;
     border-radius: 10px;
 }
-.type a{
+.type a , .about a{
     text-decoration: none;
     color: white;
 }
@@ -71,7 +71,7 @@ header a{
 }
 .type a:hover , .about a:hover{
     /* color: rgb(52, 116, 234); */
-    color: rgb(133, 159, 206);
+    color: rgb(91, 136, 220);
 }
 #submit:hover{
     background-color: rgb(154, 185, 241);
