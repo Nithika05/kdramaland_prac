@@ -103,6 +103,7 @@ main{
     flex-wrap: wrap;
     gap: 5px;
 }
+
 body>h1{
     color: cornflowerblue;
 }
